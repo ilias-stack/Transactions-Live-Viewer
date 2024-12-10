@@ -1,0 +1,2 @@
+POST http://localhost:8086/api/v2/query?org=my-org&bucket=my-bucket
+Authorization: Token gZNfG0P4o63-OmAIE7iZPbnPHhLA5cxd96ygRWXZYFOhWXbvYmIhAUwAMSvXahNrZMRMlzTyQtW76ZVBziLA7w==
